@@ -1,0 +1,15 @@
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\LoadEmployee.Plugin.dll
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\LoadEmployee.Plugin.pdb
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\Newtonsoft.Json.dll
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\NLog.dll
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\PhoneApp.exe
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\Newtonsoft.Json.xml
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\NLog.xml
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\bin\Debug\PhoneApp.pdb
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmployeePlugin.csproj.AssemblyReference.cache
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmployeePlugin.Properties.Resources.resources
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmployeePlugin.csproj.GenerateResource.cache
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmployeePlugin.csproj.CoreCompileInputs.cache
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmpl.B1ED0D4D.Up2Date
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmployee.Plugin.dll
+F:\For .NET\CentRVD Test\LoadEmployeePlugin\obj\Debug\LoadEmployee.Plugin.pdb

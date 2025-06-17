@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\For .NET\\CentRVD Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E093FB43-742F-45A9-B06F-3A870A9C7613}|LoadEmployeePlugin\\LoadEmployeesPlugin.csproj|f:\\for .net\\centrvd test\\loademployeeplugin\\loademployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E093FB43-742F-45A9-B06F-3A870A9C7613}|LoadEmployeePlugin\\LoadEmployeesPlugin.csproj|solutionrelative:loademployeeplugin\\loademployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}|FixedEmployeesViewerPlugin\\FixedEmployeesViewerPlugin.csproj|f:\\for .net\\centrvd test\\fixedemployeesviewerplugin\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}|FixedEmployeesViewerPlugin\\FixedEmployeesViewerPlugin.csproj|solutionrelative:fixedemployeesviewerplugin\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadEmployee.cs",
+              "DocumentMoniker": "F:\\For .NET\\CentRVD Test\\LoadEmployeePlugin\\LoadEmployee.cs",
+              "RelativeDocumentMoniker": "LoadEmployeePlugin\\LoadEmployee.cs",
+              "ToolTip": "F:\\For .NET\\CentRVD Test\\LoadEmployeePlugin\\LoadEmployee.cs",
+              "RelativeToolTip": "LoadEmployeePlugin\\LoadEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:15:57.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "F:\\For .NET\\CentRVD Test\\FixedEmployeesViewerPlugin\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "FixedEmployeesViewerPlugin\\CommandHandler.cs",
+              "ToolTip": "F:\\For .NET\\CentRVD Test\\FixedEmployeesViewerPlugin\\CommandHandler.cs",
+              "RelativeToolTip": "FixedEmployeesViewerPlugin\\CommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:15:48.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

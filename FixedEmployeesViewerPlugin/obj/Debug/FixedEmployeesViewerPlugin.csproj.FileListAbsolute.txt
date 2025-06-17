@@ -1,0 +1,11 @@
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\bin\Debug\FixedEmployeesViewer.Plugin.dll
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\bin\Debug\FixedEmployeesViewer.Plugin.pdb
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\bin\Debug\NLog.dll
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\bin\Debug\PhoneApp.exe
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\bin\Debug\NLog.xml
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\bin\Debug\PhoneApp.pdb
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\obj\Debug\FixedEmployeesViewerPlugin.csproj.AssemblyReference.cache
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\obj\Debug\FixedEmployeesViewerPlugin.csproj.CoreCompileInputs.cache
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\obj\Debug\FixedEmp.CD08B476.Up2Date
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\obj\Debug\FixedEmployeesViewer.Plugin.dll
+F:\For .NET\CentRVD Test\FixedEmployeesViewerPlugin\obj\Debug\FixedEmployeesViewer.Plugin.pdb

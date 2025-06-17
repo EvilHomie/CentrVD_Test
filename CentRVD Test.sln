@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DownloadEmployeePlugin", "DownloadEmployeePlugin", "{5DC63390-833D-4E88-AB9C-6B5C60584407}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FixedEmployeesViewerPlugin", "FixedEmployeesViewerPlugin", "{51925087-CC75-4271-B30E-E679FD28DC13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedEmployeesViewerPlugin", "FixedEmployeesViewerPlugin\FixedEmployeesViewerPlugin.csproj", "{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadEmployeesPlugin", "LoadEmployeePlugin\LoadEmployeesPlugin.csproj", "{E093FB43-742F-45A9-B06F-3A870A9C7613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E093FB43-742F-45A9-B06F-3A870A9C7613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E093FB43-742F-45A9-B06F-3A870A9C7613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E093FB43-742F-45A9-B06F-3A870A9C7613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E093FB43-742F-45A9-B06F-3A870A9C7613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A23E6CB-B53C-4D37-BE81-A751CACAA5D8} = {51925087-CC75-4271-B30E-E679FD28DC13}
+		{E093FB43-742F-45A9-B06F-3A870A9C7613} = {5DC63390-833D-4E88-AB9C-6B5C60584407}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE5B077-76DF-4598-A068-27D166F4AFF5}
+	EndGlobalSection
+EndGlobal
